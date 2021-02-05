@@ -1,4 +1,4 @@
-### Hello 👋🏻
+## Hello 👋🏻
 
 Hi, I'm Alex! I'm a result-oriented Data Scientist and Engineer 👨🏻‍💻 who always thinks hard about how our methods and analyses can improve decision-making and ultimately create business value.
 
