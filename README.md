@@ -8,4 +8,4 @@
 - 👨🏼‍🎓 B.Sc. in Data Science and Engineering, student @ [UPC](https://dse.upc.edu/en "Bachelor's degree in Data Science and Engineering | UPC")
 - 💻 Skills: Python, R, C++, SQL, data analysis, machine learning, deep learning, statistics, CV, NLP
 
-Reach me on <a href="https://www.linkedin.com/in/alexcarrilloalza/">LinkedIn</a>.
+Reach me on [LinkedIn](https://www.linkedin.com/in/alexcarrilloalza/ "Alex Carrillo Alza | LinkedIn").
