@@ -1,9 +1,11 @@
 # Hello 👋🏻
 
-Hi, I'm Alex! I'm a result-oriented Data Scientist and Engineer 👨🏻‍💻 who always thinks hard about how our methods and analyses can improve decision-making and ultimately create business value.
+"Result-oriented Data Scientist and Engineer." 👨🏻‍💻
+– I always think hard about how our methods and analyses can improve decision-making and ultimately create business value.
 
-- 💳 Fintech internship experience <a href="https://www.unnax.com/">@Unnax</a>
-- 🎓 B.Sc. in Data Science and Engineering, student <a href="https://www.upc.edu/en?set_language=en">@UPC</a>
-- 🪛 Skills: R, Python, C++, SQL, data analysis, machine learning, statistics
+- 📊 Business Intelligence / Analyst experience @ Amazon
+- 💳 Fintech internship experience @ Unnax
+- 👨🏼‍🎓 B.Sc. in Data Science and Engineering, student @ UPC
+- 💻 Skills: Python, R, C++, SQL, data analysis, machine learning, deep learning, statistics, CV, NLP
 
-Reach me on <a href="https://www.linkedin.com/in/alexcarrilloalza/">LinkedIn</a>.
+Reach me on <a href="https://www.linkedin.com/in/alexcarrilloalza/">Alex Carrillo Alza | LinkedIn</a>.
